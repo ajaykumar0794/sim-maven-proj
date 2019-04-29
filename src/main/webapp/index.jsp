@@ -9,6 +9,6 @@
     </head>
     <body>
 <<<<<<< HEAD
-        <h1>Successfully war is deployed  in TomCat- Congrats !!!</h1>
+        <h1>wasdr is deployed  in TomCat- Congrats !!!</h1>
     </body>
 </html>
